@@ -1,0 +1,4 @@
+//This is a simplified custom box collider audio trigger that can be used in unity with any middleware//
+//Attach this to a game object's box collider and have it call the audio event you are thinking of triggering within that specific zone//
+//It will trigger whatever your game logic is to play specified audio once a ''player'' or other specified game component gets into that zone//
+//It is much easier to use and follow instead of using the standard Wwise or Fmod trigger conditions that occupy the inspector with so many conditions//
